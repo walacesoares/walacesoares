@@ -14,15 +14,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/walacesoares/walacesoares/output/snake.svg" alt="Snake animation" />
-
-###
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=walacesoares&theme=discord&no-frame=false&no-bg=false&margin-w=4)
